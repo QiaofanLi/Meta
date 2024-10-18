@@ -1,2 +1,2 @@
 # Metagenomics
-BGI Metagenomics Project
+BGI Metagenomics SNP-Project
